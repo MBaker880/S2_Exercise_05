@@ -76,6 +76,11 @@ footer {
     clear: left;
 }
 
+footer::after {
+    background-color: rgb(71, 52, 29);
+    clear: left;
+}
+
 footer>nav.verticalNavigation {
     float: left;
     width: 22%;
