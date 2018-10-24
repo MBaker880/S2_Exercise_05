@@ -12,9 +12,9 @@
 
 */
 
-div {
+/* div {
     outline: 1px solid red;
-}
+} */
 /* Grid Rows Styles */
 div.row {
     clear: both;
@@ -45,7 +45,7 @@ div.col-1-3 {
 }
 
 div.col-2-3 {
-    width: 66.66%;
+    width: 66.67%;
 }
 
 div.col-1-4 {
@@ -60,8 +60,8 @@ div.col-3-4 {
 
 
 /* Practice */
-section {
+/* section {
     display: grid;
     grid-template-rows: 100px auto 100px;
     grid-template-columns: 25% 50% 25%;
-}
+} */
